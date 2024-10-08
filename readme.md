@@ -1,6 +1,6 @@
 # 💫About Me :
-🔭I am currently working on Multipurpose Discord Bot.
-🌱I am currently learning JavaScript.
+🔭I am currently setting up HomeLab, and networking ahh!
+🌱I am currently learning Linux, Bash, Networking, CCNA.
 ⚡Jokes on you haha
 
 ## 🌐Socials

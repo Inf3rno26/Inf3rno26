@@ -13,12 +13,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Inf3rno26&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inf3rno26&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-  ## 💰You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/inf3rno) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   

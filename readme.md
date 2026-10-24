@@ -3,7 +3,7 @@
 <p align="center">
   Computer Science student exploring software development, DevOps, and infrastructure.
   <br />
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/vishad-jain-3958aa266/">LinkedIn</a> ·
   <a href="https://github.com/Inf3rno26">GitHub</a> ·
   <a href="https://vishadjain.in">Website</a>
 </p>
